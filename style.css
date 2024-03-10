@@ -1,0 +1,33 @@
+#subtitle{
+    color: blanchedalmond;
+    text-align: center;
+}
+
+header p{
+    color: #ffffff;
+    font-weight: 600;
+}
+
+h1{
+    text-align: center;
+    font-size: 65px;
+    color: #b2c5d8;
+    padding: 10px;
+    color: rgb(28, 112, 160);
+    margin: 0;
+}
+
+h2{
+    font-size: 24;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size: 60px;
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px black;
+}
